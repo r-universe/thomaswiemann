@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "civ"]
+	path = civ
+	url = https://github.com/thomaswiemann/civ
 [submodule "ddml"]
 	path = ddml
 	url = https://github.com/thomaswiemann/ddml
